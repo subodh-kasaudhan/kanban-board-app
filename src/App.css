@@ -28,6 +28,20 @@
   color: #61dafb;
 }
 
+.navbar {
+  /* display: flex; */
+  height: "40px"; /* Set the desired height*/
+  width: "30px"; /* Set the fixed width */
+  background-color: green; /* Background color of the navbar */
+  color: white; /* Text color */
+  flex-direction: row;
+  position: absolute;
+  left: 1px;
+  position: fixed; /* Fixed positioning to stay in place */
+  top: 0; /* Stick to the top of the viewport */
+  bottom: 10; /* Extends to the bottom of the viewport */
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
