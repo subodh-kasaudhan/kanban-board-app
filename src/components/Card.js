@@ -1,5 +1,5 @@
 import React from "react";
-import "./Card.css";
+import "./main.css";
 import done from "./assets/blue-tick.png";
 import progress from "./assets/in-progress.png";
 import todo from "./assets/todo.png";
