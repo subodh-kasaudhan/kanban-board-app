@@ -4,7 +4,7 @@ The React app was a Frontend Assignment which was part of the hiring process of 
 -->
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was made with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
