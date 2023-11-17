@@ -1,3 +1,6 @@
+#Kanban-board-app
+The React app was a Frontend Assignment which was part of the hiring process of QuickSell. It extracts some data from an Api and then displays it in a visually appealing format using Cards. The user can group items according to Username, Stauts and Priority of tickets. They also get an option to sort the displayed tickets according to title or priority withing a column(group).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
